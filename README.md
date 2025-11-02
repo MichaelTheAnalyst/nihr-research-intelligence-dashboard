@@ -45,7 +45,7 @@ An interactive Streamlit dashboard designed for comprehensive analysis of NIHR (
 #### Option 1: Automated Launch (Windows)
 ```bash
 # Clone the repository
-git clone https://github.com/masood-nazari/nihr-research-intelligence-dashboard.git
+git clone https://github.com/MichaelTheAnalyst/nihr-research-intelligence-dashboard.git
 cd nihr-research-intelligence-dashboard
 
 # Run the automated launcher
@@ -161,9 +161,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 **Author**
 
-**Masood Nazari**
+**Michael Nazari**
 - 🔗 LinkedIn: [linkedin.com/in/masood-nazari](https://www.linkedin.com/in/masood-nazari)
-- 🐙 GitHub: [@masood-nazari]
+- 🐙 GitHub: [@MichaelTheAnalyst](https://github.com/MichaelTheAnalyst)
 
 ## 🤝 **Contributing**
 
