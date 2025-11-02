@@ -123,6 +123,8 @@ dmypy.json
 *.xlsx
 *.csv
 *.json
+*.docx
+*.doc
 data/
 datasets/
 
