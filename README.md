@@ -45,7 +45,7 @@ An interactive Streamlit dashboard designed for comprehensive analysis of NIHR (
 #### Option 1: Automated Launch (Windows)
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/nihr-research-intelligence-dashboard.git
+git clone https://github.com/masood-nazari/nihr-research-intelligence-dashboard.git
 cd nihr-research-intelligence-dashboard
 
 # Run the automated launcher
