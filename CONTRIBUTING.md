@@ -1,6 +1,10 @@
 # Contributing to NIHR Research Intelligence Dashboard
 
-Thank you for your interest in contributing to the NIHR Research Intelligence Dashboard! This document provides guidelines for contributing to the project.
+Thank you for your interest in contributing to the NIHR Research Intelligence Dashboard! 
+
+This project was created by Michael Nazari as a portfolio demonstration of Business Intelligence capabilities. Contributions from the community are welcome and appreciated, whether you're fixing bugs, improving documentation, adding features, or suggesting enhancements.
+
+This document provides guidelines for contributing to the project.
 
 ## 🚀 Getting Started
 
@@ -163,4 +167,15 @@ Contributors will be recognized in:
 - CHANGELOG.md for significant contributions
 - GitHub contributors page
 
+## 📧 **Contact**
+
+**Project Maintainer:** Michael Nazari  
+- 🔗 LinkedIn: [linkedin.com/in/masood-nazari](https://www.linkedin.com/in/masood-nazari)
+- 🐙 GitHub: [@MichaelTheAnalyst](https://github.com/MichaelTheAnalyst)
+
+---
+
 Thank you for contributing to making healthcare research funding more transparent and accessible! 🔬✨
+
+*Guidelines maintained by: Michael Nazari*  
+*Last Updated: November 2025*
